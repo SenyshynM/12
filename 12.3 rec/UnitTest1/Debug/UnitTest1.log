@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+E:\унік\Алгоритмізація і програмування\12\12.3 rec\12.3 rec\12.3 rec.cpp(83): warning C4715: 'count': not all control paths return a value
+     Creating library E:\унік\Алгоритмізація і програмування\12\12.3 rec\Debug\UnitTest1.lib and object E:\унік\Алгоритмізація і програмування\12\12.3 rec\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> E:\унік\Алгоритмізація і програмування\12\12.3 rec\Debug\UnitTest1.dll
